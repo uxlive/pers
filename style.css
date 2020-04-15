@@ -7,7 +7,7 @@ body {
   -webkit-box-align: center;
           align-items: center;
   overflow: hidden;
-  background-color: #141414;
+  background: transparent;
 }
 
 .wrap {
